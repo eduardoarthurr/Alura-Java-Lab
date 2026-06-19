@@ -1,0 +1,15 @@
+# IDEs (VS Code / IntelliJ)
+.idea/
+.vscode/
+*.iml
+# Java (build tools)
+target/
+build/
+out/
+# Logs
+*.log
+# Sistema operacional
+.DS_Store
+Thumbs.db
+# Arquivos temporários
+*.class
